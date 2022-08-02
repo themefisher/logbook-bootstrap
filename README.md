@@ -1,11 +1,11 @@
-# Logbook Free Bootstrap Finance Template
+# Logbook Free Bootstrap Blog Template
 
 ![logbook](https://demo.themefisher.com/thumbnails/logbook.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/logbook/)
 
 <!-- download -->
-## Download And installation
+## Download And Installation
 
 Download this template from [Github](https://github.com/themefisher/logbook/archive/main.zip)
 
